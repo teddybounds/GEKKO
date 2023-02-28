@@ -7,7 +7,7 @@
         <li>Control optimization of 2-linkage double pendulum cart using IPOPT solver.</li>
     </ul>
 </li>
-<img src="https://github.com/teddybounds/GEKKO/blob/main/pendulum.png">
+<img src="https://github.com/teddybounds/GEKKO/blob/main/Pendulum_Swing_Up.mov">
 <li>Bouncing Ball</li>
   <ul type="circle">
       <li>Shooting method optimization of bouncing ball hitting predefined target using IPOPT solver.</li>
